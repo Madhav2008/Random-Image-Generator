@@ -1,1 +1,1 @@
-# Random-Image-Generator
+# Random-Image-Generator-Using-HTML-CSS-And-JavaScript
